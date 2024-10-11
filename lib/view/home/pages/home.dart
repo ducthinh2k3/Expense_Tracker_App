@@ -23,7 +23,13 @@ class Home extends StatelessWidget {
         ],
       ),
       body: const Center(
-        child: Text('Home Page'),
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Text('Home Page'),
+            Text('Test Page')
+          ],
+        ),
       ),
     );
   }

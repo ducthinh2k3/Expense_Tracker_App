@@ -30,6 +30,8 @@ class Home extends StatelessWidget {
             Text('Test Page'),
             Text('Test Page 2'),
             Text('Dev is coding...'),
+            Text('Main has a new code 3'),
+            Text('Main has a new code 4')
           ],
         ),
       ),

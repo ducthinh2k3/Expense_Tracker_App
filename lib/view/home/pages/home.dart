@@ -25,7 +25,7 @@ class Home extends StatelessWidget {
       body: const Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
-          children: [Text('Home Page'), Text('Test Page'), Text('Test Page 2'), Text('Main has a new code 2')],
+          children: [Text('Home Page'), Text('Test Page'), Text('Test Page 2'), Text('Main has a new code 3')],
         ),
       ),
     );
